@@ -1,0 +1,3 @@
+C:/Users/NightRaven/Desktop/Studia/Git/OU_CLIon_GIT_03/cmake-build-debug/CMakeFiles/OU_CLIon_GIT_03.dir
+C:/Users/NightRaven/Desktop/Studia/Git/OU_CLIon_GIT_03/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NightRaven/Desktop/Studia/Git/OU_CLIon_GIT_03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
